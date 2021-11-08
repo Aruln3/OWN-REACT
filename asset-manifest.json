@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aruln3.github.io/csb-ldzhq/static/css/main.258add12.chunk.css",
+    "main.js": "https://aruln3.github.io/csb-ldzhq/static/js/main.bbdf542a.chunk.js",
+    "main.js.map": "https://aruln3.github.io/csb-ldzhq/static/js/main.bbdf542a.chunk.js.map",
+    "runtime-main.js": "https://aruln3.github.io/csb-ldzhq/static/js/runtime-main.3475243c.js",
+    "runtime-main.js.map": "https://aruln3.github.io/csb-ldzhq/static/js/runtime-main.3475243c.js.map",
+    "static/js/2.61a931a5.chunk.js": "https://aruln3.github.io/csb-ldzhq/static/js/2.61a931a5.chunk.js",
+    "static/js/2.61a931a5.chunk.js.map": "https://aruln3.github.io/csb-ldzhq/static/js/2.61a931a5.chunk.js.map",
+    "index.html": "https://aruln3.github.io/csb-ldzhq/index.html",
+    "static/css/main.258add12.chunk.css.map": "https://aruln3.github.io/csb-ldzhq/static/css/main.258add12.chunk.css.map",
+    "static/js/2.61a931a5.chunk.js.LICENSE.txt": "https://aruln3.github.io/csb-ldzhq/static/js/2.61a931a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3475243c.js",
+    "static/js/2.61a931a5.chunk.js",
+    "static/css/main.258add12.chunk.css",
+    "static/js/main.bbdf542a.chunk.js"
+  ]
+}
